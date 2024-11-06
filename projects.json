@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "프로젝트 1",
+    "description": "프로젝트 설명",
+    "tasks": []
+  },
+  {
+    "id": 2,
+    "title": "프로젝트 2",
+    "description": "프로젝트 설명",
+    "tasks": []
+  },
+  {
+    "id": 3,
+    "title": "프로젝트 3",
+    "description": "프로젝트 설명",
+    "tasks": [
+      1,
+      2
+    ]
+  }
+]
